@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @patrickpmueller
-- 👀 I’m interested in Computers, isn't it obvious?
-- 🌱 I’m currently learning nothing. Too lazy.
-- 📫 How to reach me: No one has enough power to reach me!
+- 👀 I’m interested in Computers and love Git, isn't it obvious?
+- 🌱 I’m currently learning Rust - kinda, it's complicated.
+- 📫 How to reach me: 
 
 <!---
 patrickpmueller/patrickpmueller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
