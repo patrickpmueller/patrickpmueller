@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @patrickpmueller
 - 👀 I’m interested in Computers and love Git, isn't it obvious?
 - 🌱 I’m currently learning Rust - kinda, it's complicated.
-- 📫 How to reach me: 
+- 📫 How to reach me: pop me an [email](mailto:patrickpmueller@yahoo.com) or open an issue on this repo
 
 <!---
 patrickpmueller/patrickpmueller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
